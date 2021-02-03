@@ -4,7 +4,7 @@
 
 ## Tecnical requirements:
 - Class JS
-- Constuctor function
+- Constuctor function with a name and a demage function
 - Methods 
 - Self invoke function 
 
